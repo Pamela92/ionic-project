@@ -9,7 +9,11 @@ align-items: center;
   transform: translateY(-50%);
   color: white;
   font-size: small;
-
+}
+  ion-icon{
+    justify-content: start;
+    margin-left: 10px;
+    
 }
 #ion-input {
 color:yellow;
@@ -34,9 +38,11 @@ color:yellow;
 ion-content.background
 {
 
-  --background: linear-gradient(#E88F71, #241903);
+  --background: linear-gradient(#F29375, #241903);
   
 
-    }
+}
+    
+    
 
   
